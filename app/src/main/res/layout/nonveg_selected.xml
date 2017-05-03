@@ -33,7 +33,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:orientation="horizontal">
@@ -47,8 +46,10 @@
                             <ImageView
                                 android:id="@+id/egg"
                                 android:layout_width="50dp"
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
                                 android:layout_height="50dp"
-                                android:background="@drawable/egg2" />
+                                android:src="@drawable/egg2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -129,7 +130,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_marginLeft="80dp"
@@ -145,8 +145,10 @@
                             <ImageView
                                 android:id="@+id/fish"
                                 android:layout_width="50dp"
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
                                 android:layout_height="50dp"
-                                android:background="@drawable/fish2" />
+                                android:src="@drawable/fish2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -245,7 +247,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="end|center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_weight="1"
@@ -260,8 +261,10 @@
                             <ImageView
                                 android:id="@+id/prawn"
                                 android:layout_width="50dp"
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
                                 android:layout_height="50dp"
-                                android:background="@drawable/prawn2" />
+                                android:src="@drawable/prawn2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -343,7 +346,6 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
                         android:layout_weight="1"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_marginLeft="70dp"
@@ -358,6 +360,8 @@
                             <ImageView
                                 android:id="@+id/chicken"
                                 android:layout_width="50dp"
+                                android:src="?attr/selectableItemBackgroundBorderless"
+
                                 android:layout_height="50dp"
                                 android:background="@drawable/chicken2" />
 
@@ -457,7 +461,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:background="?attr/selectableItemBackgroundBorderless"
 
 
 
@@ -473,7 +476,9 @@
                         android:id="@+id/mutton"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:background="@drawable/mutton2" />
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+                        android:src="@drawable/mutton2" />
 
                     <RelativeLayout
                         android:layout_width="wrap_content"
@@ -554,7 +559,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="end|center"
-                android:background="?attr/selectableItemBackgroundBorderless"
 
 
                 android:layout_marginLeft="65dp"
@@ -570,7 +574,9 @@
                         android:id="@+id/nonvegnoodles"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:background="@drawable/nv2" />
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+                        android:src="@drawable/nv2" />
 
                     <RelativeLayout
                         android:layout_width="wrap_content"

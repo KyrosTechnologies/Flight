@@ -33,7 +33,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
@@ -71,7 +70,8 @@
                                 android:id="@+id/veg_thalli"
                                 android:layout_width="50dp"
                                 android:layout_height="50dp"
-                                android:background="@drawable/thalli2" />
+                                android:background="?attr/selectableItemBackgroundBorderless"
+                                android:src="@drawable/thalli2" />
 
 
                         </FrameLayout>
@@ -128,7 +128,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
                         android:layout_marginLeft="55dp"
                         android:layout_weight="1"
@@ -144,7 +143,9 @@
                                 android:id="@+id/fruit_salad"
                                 android:layout_width="50dp"
                                 android:layout_height="50dp"
-                                android:background="@drawable/fruit2" />
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
+                                android:src="@drawable/fruit2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -242,7 +243,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="end|center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_weight="1"
@@ -258,7 +258,9 @@
                                 android:id="@+id/paneer_tikka"
                                 android:layout_width="50dp"
                                 android:layout_height="50dp"
-                                android:background="@drawable/paneer2" />
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
+                                android:src="@drawable/paneer2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -339,7 +341,6 @@
                         android:id="@+id/vegsoup_sel"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_gravity="start|center"
@@ -357,7 +358,9 @@
                                 android:id="@+id/veg_soup"
                                 android:layout_width="50dp"
                                 android:layout_height="50dp"
-                                android:background="@drawable/soup2" />
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
+                                android:src="@drawable/soup2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -456,7 +459,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:background="?attr/selectableItemBackgroundBorderless"
 
 
                 android:layout_weight="1"
@@ -472,7 +474,9 @@
                         android:id="@+id/veg_snack"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:background="@drawable/snack2" />
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+                        android:src="@drawable/snack2" />
 
                     <RelativeLayout
                         android:layout_width="wrap_content"
@@ -554,7 +558,6 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="end|center"
                 android:layout_marginLeft="30dp"
-                android:background="?attr/selectableItemBackgroundBorderless"
 
                 android:layout_weight="1"
                 android:orientation="horizontal">
@@ -569,7 +572,9 @@
                         android:id="@+id/veg_noodles"
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:background="@drawable/vegn2" />
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+                        android:src="@drawable/vegn2" />
 
                     <RelativeLayout
                         android:layout_width="wrap_content"

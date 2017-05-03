@@ -33,7 +33,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_weight="1"
@@ -48,8 +47,10 @@
                             <ImageView
                                 android:id="@+id/bottle"
                                 android:layout_width="50dp"
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
                                 android:layout_height="50dp"
-                                android:background="@drawable/water2" />
+                                android:src="@drawable/water2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -130,7 +131,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_marginLeft="33dp"
@@ -146,8 +146,10 @@
                             <ImageView
                                 android:id="@+id/cola"
                                 android:layout_width="50dp"
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
                                 android:layout_height="50dp"
-                                android:background="@drawable/cola2" />
+                                android:src="@drawable/cola2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -244,7 +246,6 @@
                         android:id="@+id/applejuice_sel"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_gravity="start|center"
@@ -261,7 +262,9 @@
                                 android:id="@+id/apple"
                                 android:layout_width="50dp"
                                 android:layout_height="50dp"
-                                android:background="@drawable/apple2" />
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
+                                android:src="@drawable/apple2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -342,7 +345,6 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
                         android:layout_weight="1"
-                        android:background="?attr/selectableItemBackgroundBorderless"
 
 
                         android:layout_marginLeft="35dp"
@@ -357,8 +359,10 @@
                             <ImageView
                                 android:id="@+id/orange"
                                 android:layout_width="50dp"
+                                android:background="?attr/selectableItemBackgroundBorderless"
+
                                 android:layout_height="50dp"
-                                android:background="@drawable/orange2" />
+                                android:src="@drawable/orange2" />
 
                             <RelativeLayout
                                 android:layout_width="wrap_content"
@@ -454,7 +458,6 @@
                     android:id="@+id/spriteid_sel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="?attr/selectableItemBackgroundBorderless"
 
 
                     android:layout_gravity="start|center"
@@ -471,7 +474,9 @@
                             android:id="@+id/sprite"
                             android:layout_width="50dp"
                             android:layout_height="50dp"
-                            android:background="@drawable/sprite2" />
+                            android:background="?attr/selectableItemBackgroundBorderless"
+
+                            android:src="@drawable/sprite2" />
 
                         <RelativeLayout
                             android:layout_width="wrap_content"
@@ -552,7 +557,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end|center"
-                    android:background="?attr/selectableItemBackgroundBorderless"
 
 
                     android:layout_marginLeft="70dp"
@@ -569,7 +573,9 @@
                             android:id="@+id/maaza"
                             android:layout_width="50dp"
                             android:layout_height="50dp"
-                            android:background="@drawable/maaza2" />
+                            android:background="?attr/selectableItemBackgroundBorderless"
+
+                            android:src="@drawable/maaza2" />
 
                         <RelativeLayout
                             android:layout_width="wrap_content"
