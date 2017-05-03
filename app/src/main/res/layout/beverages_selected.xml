@@ -33,6 +33,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
@@ -127,6 +130,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+
                         android:layout_marginLeft="33dp"
                         android:layout_weight="1"
                         android:orientation="horizontal">
@@ -238,6 +244,9 @@
                         android:id="@+id/applejuice_sel"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+
                         android:layout_gravity="start|center"
                         android:layout_weight="1"
                         android:orientation="horizontal">
@@ -333,6 +342,9 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
                         android:layout_weight="1"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+
                         android:layout_marginLeft="35dp"
                         android:orientation="horizontal">
 
@@ -442,6 +454,9 @@
                     android:id="@+id/spriteid_sel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+
+
                     android:layout_gravity="start|center"
                     android:layout_weight="3"
                     android:orientation="horizontal">
@@ -537,6 +552,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="end|center"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+
+
                     android:layout_marginLeft="70dp"
                     android:layout_weight="1"
                     android:orientation="horizontal">

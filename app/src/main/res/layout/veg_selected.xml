@@ -33,6 +33,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="start|center"
+                        android:background="?attr/selectableItemBackgroundBorderless"
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
@@ -127,6 +128,8 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
                         android:layout_marginLeft="55dp"
                         android:layout_weight="1"
                         android:orientation="horizontal">
@@ -239,6 +242,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="end|center"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+
                         android:layout_weight="1"
                         android:orientation="horizontal">
 
@@ -333,6 +339,9 @@
                         android:id="@+id/vegsoup_sel"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+
+
                         android:layout_gravity="start|center"
                         android:layout_weight="1"
                         android:layout_marginLeft="35dp"
@@ -447,6 +456,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:background="?attr/selectableItemBackgroundBorderless"
+
+
                 android:layout_weight="1"
                 android:orientation="horizontal">
 
@@ -542,6 +554,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="end|center"
                 android:layout_marginLeft="30dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+
                 android:layout_weight="1"
                 android:orientation="horizontal">
 
