@@ -302,14 +302,14 @@ public class BeveragesFragment extends Fragment {
                         es.printStackTrace();
 
                     }
-                    if (!clicked){
-                        clicked=true;
-                        bottle.setBackgroundDrawable(getResources().getDrawable(R.drawable.water3));
-                    }else {
-                        clicked=false;
-                        bottle.setBackgroundDrawable(getResources().getDrawable(R.drawable.water2));
-
-                    }
+//                    if (!clicked){
+//                        clicked=true;
+//                        bottle.setBackgroundDrawable(getResources().getDrawable(R.drawable.water3));
+//                    }else {
+//                        clicked=false;
+//                        bottle.setBackgroundDrawable(getResources().getDrawable(R.drawable.water2));
+//
+//                    }
                 }
 
 
@@ -426,14 +426,14 @@ public class BeveragesFragment extends Fragment {
 
                     }
 
-                    if (!clicked1){
-                        clicked1=true;
-                        cola.setBackgroundDrawable(getResources().getDrawable(R.drawable.cola3));
-                    }else {
-                        clicked1=false;
-                        cola.setBackgroundDrawable(getResources().getDrawable(R.drawable.cola2));
-
-                    }
+//                    if (!clicked1){
+//                        clicked1=true;
+//                        cola.setBackgroundDrawable(getResources().getDrawable(R.drawable.cola3));
+//                    }else {
+//                        clicked1=false;
+//                        cola.setBackgroundDrawable(getResources().getDrawable(R.drawable.cola2));
+//
+//                    }
 
                 }
 
@@ -551,14 +551,14 @@ String drivinglocation=store.getLocation();
                     }
 
 
-                    if (!clicked2){
-                        clicked2=true;
-                        apple.setBackgroundDrawable(getResources().getDrawable(R.drawable.apple3));
-                    }else {
-                        clicked2=false;
-                        apple.setBackgroundDrawable(getResources().getDrawable(R.drawable.apple2));
-
-                    }
+//                    if (!clicked2){
+//                        clicked2=true;
+//                        apple.setBackgroundDrawable(getResources().getDrawable(R.drawable.apple3));
+//                    }else {
+//                        clicked2=false;
+//                        apple.setBackgroundDrawable(getResources().getDrawable(R.drawable.apple2));
+//
+//                    }
                 }
 
 
@@ -675,14 +675,14 @@ String drivinglocation=store.getLocation();
 
                     }
 
-                    if (!clicked3){
-                        clicked3=true;
-                        orange.setBackgroundDrawable(getResources().getDrawable(R.drawable.orange3));
-                    }else {
-                        clicked3=false;
-                        orange.setBackgroundDrawable(getResources().getDrawable(R.drawable.orange2));
-
-                    }
+//                    if (!clicked3){
+//                        clicked3=true;
+//                        orange.setBackgroundDrawable(getResources().getDrawable(R.drawable.orange3));
+//                    }else {
+//                        clicked3=false;
+//                        orange.setBackgroundDrawable(getResources().getDrawable(R.drawable.orange2));
+//
+//                    }
                 }
 
 
@@ -800,14 +800,14 @@ String drivinglocation=store.getLocation();
                     }
 
 
-                    if (!clicked4){
-                        clicked4=true;
-                        sprite.setBackgroundDrawable(getResources().getDrawable(R.drawable.sprite3));
-                    }else {
-                        clicked4=false;
-                        sprite.setBackgroundDrawable(getResources().getDrawable(R.drawable.sprite2));
-
-                    }
+//                    if (!clicked4){
+//                        clicked4=true;
+//                        sprite.setBackgroundDrawable(getResources().getDrawable(R.drawable.sprite3));
+//                    }else {
+//                        clicked4=false;
+//                        sprite.setBackgroundDrawable(getResources().getDrawable(R.drawable.sprite2));
+//
+//                    }
                 }
 
 
@@ -924,14 +924,14 @@ String drivinglocation=store.getLocation();
 
                     }
 
-                    if (!clicked5){
-                        clicked5=true;
-                        maaza.setBackgroundDrawable(getResources().getDrawable(R.drawable.maaza3));
-                    }else {
-                        clicked5=false;
-                        maaza.setBackgroundDrawable(getResources().getDrawable(R.drawable.maaza2));
-
-                    }
+//                    if (!clicked5){
+//                        clicked5=true;
+//                        maaza.setBackgroundDrawable(getResources().getDrawable(R.drawable.maaza3));
+//                    }else {
+//                        clicked5=false;
+//                        maaza.setBackgroundDrawable(getResources().getDrawable(R.drawable.maaza2));
+//
+//                    }
                 }
 
 

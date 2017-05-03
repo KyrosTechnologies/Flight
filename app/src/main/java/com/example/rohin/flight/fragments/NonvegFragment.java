@@ -270,14 +270,14 @@ public void onMessage(EventLocation event){
                         es.printStackTrace();
 
                     }
-                    if (!clicked){
-                        clicked=true;
-                        egg.setBackgroundDrawable(getResources().getDrawable(R.drawable.egg3));
-                    }else {
-                        clicked=false;
-                        egg.setBackgroundDrawable(getResources().getDrawable(R.drawable.egg2));
-
-                    }
+//                    if (!clicked){
+//                        clicked=true;
+//                        egg.setBackgroundDrawable(getResources().getDrawable(R.drawable.egg3));
+//                    }else {
+//                        clicked=false;
+//                        egg.setBackgroundDrawable(getResources().getDrawable(R.drawable.egg2));
+//
+//                    }
                 }
 
 
@@ -392,14 +392,14 @@ public void onMessage(EventLocation event){
                         es.printStackTrace();
 
                     }
-                    if (!clicked1){
-                        clicked1=true;
-                        fish.setBackgroundDrawable(getResources().getDrawable(R.drawable.fish3));
-                    }else {
-                        clicked1=false;
-                        fish.setBackgroundDrawable(getResources().getDrawable(R.drawable.fish2));
-
-                    }
+//                    if (!clicked1){
+//                        clicked1=true;
+//                        fish.setBackgroundDrawable(getResources().getDrawable(R.drawable.fish3));
+//                    }else {
+//                        clicked1=false;
+//                        fish.setBackgroundDrawable(getResources().getDrawable(R.drawable.fish2));
+//
+//                    }
                 }
 
 
@@ -515,14 +515,14 @@ public void onMessage(EventLocation event){
                         es.printStackTrace();
 
                     }
-                    if (!clicked2){
-                        clicked2=true;
-                        prawn.setBackgroundDrawable(getResources().getDrawable(R.drawable.prawn3));
-                    }else {
-                        clicked2=false;
-                        prawn.setBackgroundDrawable(getResources().getDrawable(R.drawable.prawn2));
-
-                    }
+//                    if (!clicked2){
+//                        clicked2=true;
+//                        prawn.setBackgroundDrawable(getResources().getDrawable(R.drawable.prawn3));
+//                    }else {
+//                        clicked2=false;
+//                        prawn.setBackgroundDrawable(getResources().getDrawable(R.drawable.prawn2));
+//
+//                    }
                 }
 
 
@@ -637,14 +637,14 @@ public void onMessage(EventLocation event){
                         es.printStackTrace();
 
                     }
-                    if (!clicked3){
-                        clicked3=true;
-                        chicken.setBackgroundDrawable(getResources().getDrawable(R.drawable.chicken3));
-                    }else {
-                        clicked3=false;
-                        chicken.setBackgroundDrawable(getResources().getDrawable(R.drawable.chicken2));
-
-                    }
+//                    if (!clicked3){
+//                        clicked3=true;
+//                        chicken.setBackgroundDrawable(getResources().getDrawable(R.drawable.chicken3));
+//                    }else {
+//                        clicked3=false;
+//                        chicken.setBackgroundDrawable(getResources().getDrawable(R.drawable.chicken2));
+//
+//                    }
                 }
 
 
@@ -759,14 +759,14 @@ public void onMessage(EventLocation event){
                         es.printStackTrace();
 
                     }
-                    if (!clicked4){
-                        clicked4=true;
-                        mutton.setBackgroundDrawable(getResources().getDrawable(R.drawable.mutton3));
-                    }else {
-                        clicked4=false;
-                        mutton.setBackgroundDrawable(getResources().getDrawable(R.drawable.mutton2));
-
-                    }
+//                    if (!clicked4){
+//                        clicked4=true;
+//                        mutton.setBackgroundDrawable(getResources().getDrawable(R.drawable.mutton3));
+//                    }else {
+//                        clicked4=false;
+//                        mutton.setBackgroundDrawable(getResources().getDrawable(R.drawable.mutton2));
+//
+//                    }
 
                 }
 
@@ -882,14 +882,14 @@ public void onMessage(EventLocation event){
                         es.printStackTrace();
 
                     }
-                    if (!clicked5){
-                        clicked5=true;
-                        nonvegnoodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.nv3));
-                    }else {
-                        clicked5=false;
-                        nonvegnoodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.nv2));
-
-                    }
+//                    if (!clicked5){
+//                        clicked5=true;
+//                        nonvegnoodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.nv3));
+//                    }else {
+//                        clicked5=false;
+//                        nonvegnoodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.nv2));
+//
+//                    }
                 }
 
 

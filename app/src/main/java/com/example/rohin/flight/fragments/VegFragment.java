@@ -304,14 +304,14 @@ public class VegFragment extends Fragment {
                     }
 
 
-                    if (!clicked){
-                        clicked=true;
-                        veg_thalli.setBackgroundDrawable(getResources().getDrawable(R.drawable.thalli3));
-                    }else {
-                        clicked=false;
-                        veg_thalli.setBackgroundDrawable(getResources().getDrawable(R.drawable.thalli2));
-
-                    }
+//                    if (!clicked){
+//                        clicked=true;
+//                        veg_thalli.setBackgroundDrawable(getResources().getDrawable(R.drawable.thalli3));
+//                    }else {
+//                        clicked=false;
+//                        veg_thalli.setBackgroundDrawable(getResources().getDrawable(R.drawable.thalli2));
+//
+//                    }
                 }
 
 
@@ -420,14 +420,14 @@ public class VegFragment extends Fragment {
 //
 
 
-                    if (!clicked1){
-                        clicked1=true;
-                        fruit_salad.setBackgroundDrawable(getResources().getDrawable(R.drawable.fruit3));
-                    }else {
-                        clicked1=false;
-                        fruit_salad.setBackgroundDrawable(getResources().getDrawable(R.drawable.fruit2));
-
-                    }
+//                    if (!clicked1){
+//                        clicked1=true;
+//                        fruit_salad.setBackgroundDrawable(getResources().getDrawable(R.drawable.fruit3));
+//                    }else {
+//                        clicked1=false;
+//                        fruit_salad.setBackgroundDrawable(getResources().getDrawable(R.drawable.fruit2));
+//
+//                    }
                 }
 
             }
@@ -534,14 +534,14 @@ public class VegFragment extends Fragment {
                     }
 
 
-                    if (!clicked2){
-                        clicked2=true;
-                        paneer_tikka.setBackgroundDrawable(getResources().getDrawable(R.drawable.paneer3));
-                    }else {
-                        clicked2=false;
-                        paneer_tikka.setBackgroundDrawable(getResources().getDrawable(R.drawable.paneer2));
-
-                    }
+//                    if (!clicked2){
+//                        clicked2=true;
+//                        paneer_tikka.setBackgroundDrawable(getResources().getDrawable(R.drawable.paneer3));
+//                    }else {
+//                        clicked2=false;
+//                        paneer_tikka.setBackgroundDrawable(getResources().getDrawable(R.drawable.paneer2));
+//
+//                    }
                 }
 
             }
@@ -645,14 +645,14 @@ public class VegFragment extends Fragment {
                         es.printStackTrace();
 
                     }
-                    if (!clicked3){
-                        clicked3=true;
-                        veg_soup.setBackgroundDrawable(getResources().getDrawable(R.drawable.soup3));
-                    }else {
-                        clicked3=false;
-                        veg_soup.setBackgroundDrawable(getResources().getDrawable(R.drawable.soup2));
-
-                    }
+//                    if (!clicked3){
+//                        clicked3=true;
+//                        veg_soup.setBackgroundDrawable(getResources().getDrawable(R.drawable.soup3));
+//                    }else {
+//                        clicked3=false;
+//                        veg_soup.setBackgroundDrawable(getResources().getDrawable(R.drawable.soup2));
+//
+//                    }
                 }
 
 
@@ -753,14 +753,14 @@ public class VegFragment extends Fragment {
                         es.printStackTrace();
 
                     }
-                    if (!clicked4){
-                        clicked4=true;
-                        veg_snack.setBackgroundDrawable(getResources().getDrawable(R.drawable.snack3));
-                    }else {
-                        clicked4=false;
-                        veg_snack.setBackgroundDrawable(getResources().getDrawable(R.drawable.snack2));
-
-                    }
+//                    if (!clicked4){
+//                        clicked4=true;
+//                        veg_snack.setBackgroundDrawable(getResources().getDrawable(R.drawable.snack3));
+//                    }else {
+//                        clicked4=false;
+//                        veg_snack.setBackgroundDrawable(getResources().getDrawable(R.drawable.snack2));
+//
+//                    }
                 }
 
             }
@@ -862,14 +862,14 @@ public class VegFragment extends Fragment {
                         es.printStackTrace();
 
                     }
-                    if (!clicked5){
-                        clicked5=true;
-                        veg_noodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.vegn3));
-                    }else {
-                        clicked5=false;
-                        veg_noodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.vegn2));
-
-                    }
+//                    if (!clicked5){
+//                        clicked5=true;
+//                        veg_noodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.vegn3));
+//                    }else {
+//                        clicked5=false;
+//                        veg_noodles.setBackgroundDrawable(getResources().getDrawable(R.drawable.vegn2));
+//
+//                    }
                 }
 
 
