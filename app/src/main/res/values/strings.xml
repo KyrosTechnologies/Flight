@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flight</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="cart">Cart</string>
+    <string name="stock_det">Stock Details</string>
+    <string name="stock_list">Stock</string>
+</resources>

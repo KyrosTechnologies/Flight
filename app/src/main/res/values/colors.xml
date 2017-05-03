@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e525c</color>
+    <color name="colorPrimaryDark">#1e525c</color>
+    <color name="colorAccent">#2e9e6f</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#b4435d67</color>
+    <color name="black">#868686</color>
+    <color name="ios">#4A8577</color>
+    <color name="filled">#2e9e6f</color>
+    <color name="icon">#ccff90</color>
+    <color name="bg">#911e525c</color>
+    <color name="grey">#4b4b4a</color>
+
+</resources>
