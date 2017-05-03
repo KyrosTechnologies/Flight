@@ -56,12 +56,12 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="top|center"
-                                android:layout_marginLeft="15dp">
+                                android:layout_marginLeft="14dp">
 
                                 <View
                                     android:layout_width="17dp"
                                     android:layout_height="17dp"
-                                    android:background="@drawable/value" />
+                                    android:background="@drawable/circle" />
 
                                 <TextView
                                     android:id="@+id/bottle_quan"
@@ -71,7 +71,7 @@
                                     android:paddingBottom="2dp"
                                     android:paddingLeft="1dp"
                                     android:text=""
-                                    android:textColor="@color/filled"
+                                    android:textColor="@color/white"
                                     android:textSize="10sp" />
 
                             </RelativeLayout>
@@ -155,12 +155,12 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="top|center"
-                                android:layout_marginLeft="15dp">
+                                android:layout_marginLeft="14dp">
 
                                 <View
                                     android:layout_width="17dp"
                                     android:layout_height="17dp"
-                                    android:background="@drawable/value" />
+                                    android:background="@drawable/circle" />
 
                                 <TextView
                                     android:id="@+id/cola_quan"
@@ -170,7 +170,7 @@
                                     android:paddingBottom="2dp"
                                     android:paddingLeft="1dp"
                                     android:text=""
-                                    android:textColor="@color/filled"
+                                    android:textColor="@color/white"
                                     android:textSize="10sp" />
 
                             </RelativeLayout>
@@ -270,12 +270,12 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="top|center"
-                                android:layout_marginLeft="15dp">
+                                android:layout_marginLeft="14dp">
 
                                 <View
                                     android:layout_width="17dp"
                                     android:layout_height="17dp"
-                                    android:background="@drawable/value" />
+                                    android:background="@drawable/circle" />
 
                                 <TextView
                                     android:id="@+id/applejuice_quan"
@@ -285,7 +285,7 @@
                                     android:paddingBottom="2dp"
                                     android:paddingLeft="1dp"
                                     android:text=""
-                                    android:textColor="@color/filled"
+                                    android:textColor="@color/white"
                                     android:textSize="10sp" />
 
                             </RelativeLayout>
@@ -368,12 +368,12 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="top|center"
-                                android:layout_marginLeft="15dp">
+                                android:layout_marginLeft="14dp">
 
                                 <View
                                     android:layout_width="17dp"
                                     android:layout_height="17dp"
-                                    android:background="@drawable/value" />
+                                    android:background="@drawable/circle" />
 
                                 <TextView
                                     android:id="@+id/orangejuice_quan"
@@ -383,7 +383,7 @@
                                     android:paddingBottom="2dp"
                                     android:paddingLeft="1dp"
                                     android:text=""
-                                    android:textColor="@color/filled"
+                                    android:textColor="@color/white"
                                     android:textSize="10sp" />
 
                             </RelativeLayout>
@@ -482,12 +482,12 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="top|center"
-                            android:layout_marginLeft="15dp">
+                            android:layout_marginLeft="14dp">
 
                             <View
                                 android:layout_width="17dp"
                                 android:layout_height="17dp"
-                                android:background="@drawable/value" />
+                                android:background="@drawable/circle" />
 
                             <TextView
                                 android:id="@+id/spriteid_quan"
@@ -497,7 +497,7 @@
                                 android:paddingBottom="2dp"
                                 android:paddingLeft="1dp"
                                 android:text=""
-                                android:textColor="@color/filled"
+                                android:textColor="@color/white"
                                 android:textSize="10sp" />
 
                         </RelativeLayout>
@@ -581,12 +581,12 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="top|center"
-                            android:layout_marginLeft="15dp">
+                            android:layout_marginLeft="14dp">
 
                             <View
                                 android:layout_width="17dp"
                                 android:layout_height="17dp"
-                                android:background="@drawable/value" />
+                                android:background="@drawable/circle" />
 
                             <TextView
                                 android:id="@+id/maaza_quan"
@@ -596,7 +596,7 @@
                                 android:paddingBottom="2dp"
                                 android:paddingLeft="1dp"
                                 android:text=""
-                                android:textColor="@color/filled"
+                                android:textColor="@color/white"
                                 android:textSize="10sp" />
 
                         </RelativeLayout>
